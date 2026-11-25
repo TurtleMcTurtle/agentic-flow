@@ -65,7 +65,7 @@ sha2 = "0.10"
 hex = "0.4"
 
 # Privacy (Differential Privacy)
-rand = "0.8"
+rand = "0.10"
 rand_distr = "0.4"
 
 # Message Queue
